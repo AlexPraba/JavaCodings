@@ -9,7 +9,7 @@ while(a>0){
 	sum = sum+i;
 	a = a/10;
 }
-System.out.println(sum);
+System.out.println("sum is "+sum);
 	}
 
 }
